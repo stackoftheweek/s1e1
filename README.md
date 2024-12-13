@@ -14,7 +14,7 @@ docker compose up -d
 
 ```bash
 git clone https://github.com/stackoftheweek/s1e1-frontend
-cd s1e1-backend
+cd s1e1-frontend
 npm install
 npm run dev
 ```
